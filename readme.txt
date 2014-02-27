@@ -23,8 +23,4 @@ Use this plugin to Remove Render-Blocking JavaScript and fix Google PageSpeed In
 
 == Screenshots ==
 
-1. preview-1.jpg
-
-== Requirements ==
-
-1. Php extension curl must be loaded.
+1. Plugin settings
