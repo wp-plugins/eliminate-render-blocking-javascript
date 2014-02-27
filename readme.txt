@@ -13,7 +13,7 @@ Eliminate Render-Blocking JavaScript and fix Google PageSpeed Insights error
 == Description ==
 
 Render-Blocking JavaScript is keeping your page from loading faster. This affects both google ranking and loading speed.
-Use this plugin to Eliminate Render-Blocking JavaScript and fix Google PageSpeed Insights error.
+Use this plugin to Remove Render-Blocking JavaScript and fix Google PageSpeed Insights error.
 
 == Installation ==
 
