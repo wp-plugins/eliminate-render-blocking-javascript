@@ -5,7 +5,7 @@
 /*
 Plugin Name: Eliminate Render-Blocking JavaScript
 Plugin URI: http://247wd.com
-Description: Render-Blocking JavaScript is keeping your page from loading faster. This affects both google ranking and loading speed. Eliminate Render-Blocking JavaScript and fix Google PageSpeed Insights error.
+Description: Render-Blocking JavaScript is keeping your page from loading faster. This affects both google ranking and loading speed. Remove Render-Blocking JavaScript and fix Google PageSpeed Insights error.
 Version: 1.0.0
 Author: 247wd
 Author URI: http://247wd.com/
