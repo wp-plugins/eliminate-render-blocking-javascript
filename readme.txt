@@ -1,6 +1,6 @@
 === Eliminate Render Blocking JavaScript ===
-Contributors: 247wd
-Donate link: http://www.247wd.com
+Contributors: erbj
+Donate link: erbj
 Tags: eliminate render blocking javascript, fix google pagespeed insights
 Requires at least: 3.0.0
 Tested up to: 3.8.1
