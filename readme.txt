@@ -1,6 +1,6 @@
 === Eliminate Render Blocking JavaScript ===
 Contributors: erbj
-Donate link: erbj
+Donate link: http://wordpress.org/plugins/eliminate-render-blocking-javascript
 Tags: eliminate render blocking javascript, fix google pagespeed insights
 Requires at least: 3.0.0
 Tested up to: 3.8.1
@@ -14,6 +14,10 @@ Remove Render-Blocking JavaScript and fix Google PageSpeed Insights error
 
 Render-Blocking JavaScript is keeping your page from loading faster. This affects both google ranking and loading speed.
 Use this plugin to Remove Render-Blocking JavaScript and fix Google PageSpeed Insights error.
+
+If your theme is coded ok, it should work. 
+No guarantee it will work on every wordpress website.
+In case it does not work, just deactivate. The uninstall is clean.
 
 == Installation ==
 

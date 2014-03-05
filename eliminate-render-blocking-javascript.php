@@ -4,11 +4,11 @@
  */
 /*
 Plugin Name: Eliminate Render-Blocking JavaScript
-Plugin URI: erbj
+Plugin URI: http://wordpress.org/plugins/eliminate-render-blocking-javascript
 Description: Render-Blocking JavaScript is keeping your page from loading faster. This affects both google ranking and loading speed. Remove Render-Blocking JavaScript and fix Google PageSpeed Insights error.
 Version: 1.0.0
 Author: erbj
-Author URI: erbj
+Author URI: http://wordpress.org/plugins/eliminate-render-blocking-javascript
 */
 
 if ( !is_admin() && !strpos ( $_SERVER['REQUEST_URI'], 'wp-login.php' ) )
